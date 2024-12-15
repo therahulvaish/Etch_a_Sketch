@@ -42,5 +42,5 @@ resizeButton.addEventListener('click', () => {
   }
 });
 
-// Initial grid creation
+// Default grid creation
 createGrid(16);
